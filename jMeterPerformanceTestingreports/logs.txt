@@ -1,0 +1,89 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1732623899347,1166,2n Tech,200,OK,Thread Group 1-1,text,true,,458743,113,1,1,https://2nhaber.com/,874,0,771
+1732623900521,349,2n Tech Neden,200,OK,Thread Group 1-1,text,true,,259324,237,1,1,https://2nhaber.com/neden/,133,0,0
+1732623900521,133,2n Tech Neden-0,301,Moved Permanently,Thread Group 1-1,text,true,,265,118,1,1,https://2nhaber.com/neden,133,0,0
+1732623900656,214,2n Tech Neden-1,200,OK,Thread Group 1-1,text,true,,259059,119,1,1,https://2nhaber.com/neden/,75,0,0
+1732623900872,12421,2n Tech Nasil,200,OK,Thread Group 1-1,text,true,,5187152,14511,1,1,https://2nhaber.com/nasil/,147,0,0
+1732623900872,147,2n Tech Nasil-0,301,Moved Permanently,Thread Group 1-1,text,true,,265,118,1,1,https://2nhaber.com/nasil,147,0,0
+1732623901020,219,2n Tech Nasil-1,200,OK,Thread Group 1-1,text,true,,260741,119,1,1,https://2nhaber.com/nasil/,79,0,0
+1732623901357,177,2n Tech Nasil-2,200,OK,Thread Group 1-1,text,true,,167902,198,1,1,https://2nhaber.com/wp-content/themes/the-reporter/theme-config/assets/css/default-vars.min.css?ver=1.0.0,60,0,0
+1732623901928,57,2n Tech Nasil-3,200,OK,Thread Group 1-1,text,true,,4149,171,1,1,https://2nhaber.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.21,57,0,0
+1732623902003,55,2n Tech Nasil-4,200,OK,Thread Group 1-1,text,true,,1401,163,1,1,https://2nhaber.com/wp-content/themes/the-reporter/style.css?ver=1.0.0,55,0,0
+1732623902059,64,2n Tech Nasil-5,200,OK,Thread Group 1-1,text,true,,20314,198,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.32.0,60,0,0
+1732623902146,336,2n Tech Nasil-6,200,OK,Thread Group 1-1,text,true,,340244,186,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/the-reporter-frontend.min.css?ver=screen,66,0,0
+1732623902791,128,2n Tech Nasil-7,200,OK,Thread Group 1-1,text,true,,85797,198,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/the-reporter-gutenberg-wp-frontend.min.css?ver=1.0.0,60,0,0
+1732623903044,409,2n Tech Nasil-8,200,OK,Thread Group 1-1,text,true,,60954,184,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1732474072,60,0,0
+1732623903519,64,2n Tech Nasil-9,200,OK,Thread Group 1-1,text,true,,16764,191,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5,61,0,0
+1732623903599,61,2n Tech Nasil-10,200,OK,Thread Group 1-1,text,true,,10553,194,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.10,59,0,0
+1732623903671,67,2n Tech Nasil-11,200,OK,Thread Group 1-1,text,true,,29977,172,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/post-25.css?ver=1732474072,61,0,0
+1732623903766,59,2n Tech Nasil-12,200,OK,Thread Group 1-1,text,true,,6829,217,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/lib/cmsicons/css/cmsmasters-icons.min.css?ver=1.0.0,59,0,0
+1732623903829,2008,2n Tech Nasil-13,200,OK,Thread Group 1-1,text,true,,2121400,195,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/cmsmasters-custom-frontend.min.css?ver=1732474072,60,0,0
+1732623907259,66,2n Tech Nasil-14,200,OK,Thread Group 1-1,text,true,,4588,187,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.25.10,66,0,0
+1732623907328,72,2n Tech Nasil-15,200,OK,Thread Group 1-1,text,true,,890,187,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.25.10,72,0,0
+1732623907401,113,2n Tech Nasil-16,200,OK,Thread Group 1-1,text,true,,21345,175,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/post-31620.css?ver=1732474404,60,0,0
+1732623907542,124,2n Tech Nasil-17,200,OK,Thread Group 1-1,text,true,,67373,172,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/post-61.css?ver=1732474071,62,0,0
+1732623907736,62,2n Tech Nasil-18,200,OK,Thread Group 1-1,text,true,,17357,173,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/post-173.css?ver=1732474071,60,0,0
+1732623907810,55,2n Tech Nasil-19,200,OK,Thread Group 1-1,text,true,,484,170,1,1,https://2nhaber.com/wp-content/themes/the-reporter-child/style.css?ver=1.0.15,55,0,0
+1732623907868,239,2n Tech Nasil-20,200,OK,Thread Group 1-1,text,true,,8549,517,1,1,https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=latin-ext&ver=6.7.1,236,0,149
+1732623908112,192,2n Tech Nasil-21,200,OK,Thread Group 1-1,text,true,,2975,198,1,1,https://18.193.58.165/wp-content/uploads/elementor/cmsmasters-local-icons/Local-Icons/style.css?ver=1.0.0,192,0,133
+1732623908306,293,2n Tech Nasil-22,200,OK,Thread Group 1-1,text,true,,208156,178,1,1,https://2nhaber.com/wp-content/plugins/revslider/public/js/libs/tptools.js?ver=6.7.21,61,0,0
+1732623908600,348,2n Tech Nasil-23,200,OK,Thread Group 1-1,text,true,,322692,169,1,1,https://2nhaber.com/wp-content/plugins/revslider/public/js/sr7.js?ver=6.7.21,60,0,0
+1732623908948,132,2n Tech Nasil-24,200,OK,Thread Group 1-1,text,true,,87854,158,1,1,https://2nhaber.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,62,0,0
+1732623909081,60,2n Tech Nasil-25,200,OK,Thread Group 1-1,text,true,,13877,166,1,1,https://2nhaber.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1,59,0,0
+1732623909142,571,2n Tech Nasil-26,200,OK,Thread Group 1-1,text,true,,331154,148,1,1,https://www.googletagmanager.com/gtag/js?id=GT-WR93KJLC,323,0,165
+1732623909712,56,2n Tech Nasil-27,200,OK,Thread Group 1-1,bin,true,,1888,169,1,1,https://2nhaber.com/wp-content/uploads/2024/10/2N-Logo-Beyaz-PNG-150x150.png,56,0,0
+1732623909769,57,2n Tech Nasil-28,200,OK,Thread Group 1-1,bin,true,,3231,169,1,1,https://2nhaber.com/wp-content/uploads/2024/10/2N-Logo-Beyaz-PNG-300x300.png,57,0,0
+1732623909827,61,2n Tech Nasil-29,200,OK,Thread Group 1-1,bin,true,,13900,163,1,1,https://2nhaber.com/wp-content/uploads/2024/10/2n-logo-beyaz-512-4.png,59,0,0
+1732623909888,62,2n Tech Nasil-30,200,OK,Thread Group 1-1,bin,true,,13777,163,1,1,https://2nhaber.com/wp-content/uploads/2024/10/2n-logo-siyah-512-2.png,59,0,0
+1732623909950,63,2n Tech Nasil-31,200,OK,Thread Group 1-1,bin,true,,18250,214,1,1,https://2nhaber.com/wp-content/uploads/2024/11/Burak-Yilmaz-2024-kasim-New-folder-16-AA-36290935-e1732623237683-30x23.jpg,59,0,0
+1732623910014,61,2n Tech Nasil-32,200,OK,Thread Group 1-1,bin,true,,4696,176,1,1,https://2nhaber.com/wp-content/uploads/2024/11/CZFHRYZSXVPDVDZTPAHGMLRYZM-30x20.jpg,61,0,0
+1732623910075,59,2n Tech Nasil-33,200,OK,Thread Group 1-1,bin,true,,12855,173,1,1,https://2nhaber.com/wp-content/uploads/2024/11/shutterstock_2478359695-30x20.jpg,59,0,0
+1732623910135,56,2n Tech Nasil-34,200,OK,Thread Group 1-1,bin,true,,865,247,1,1,https://2nhaber.com/wp-content/uploads/2024/11/AA-20241122-36260122-36260118-ERCIYES_UNIVERSITESINDE_DUSUK_VOLTAJLI_RADYASYON_DEDEKTORU_URETILDI-30x17.jpg,56,0,0
+1732623910191,57,2n Tech Nasil-35,200,OK,Thread Group 1-1,bin,true,,867,193,1,1,https://2nhaber.com/wp-content/uploads/2024/11/thumbs_b_c_770abede8a251b8cd10cea0a7fe7d8bd-30x17.jpg,57,0,0
+1732623910248,63,2n Tech Nasil-36,200,OK,Thread Group 1-1,bin,true,,10208,226,1,1,https://2nhaber.com/wp-content/uploads/2024/11/2024-11-21T162712Z_1309895841_RC2NZ4A9X6J5_RTRMADP_3_EU-AMAZON-COM-ANTITRUST-30x20.jpg,63,0,0
+1732623910311,55,2n Tech Nasil-37,200,OK,Thread Group 1-1,bin,true,,799,265,1,1,https://2nhaber.com/wp-content/uploads/2024/11/AA-20241116-36208367-36208365-ISTANBUL_HAVALIMANI_GECEN_HAFTA_GUNLUK_ORTALAMA_1359_UCUSLA_YINE_AVRUPANIN_ZIRVESINDE-30x17.jpg,55,0,0
+1732623910366,55,2n Tech Nasil-38,200,OK,Thread Group 1-1,bin,true,,757,177,1,1,https://2nhaber.com/wp-content/uploads/2024/11/JGZJHMRCT5M3FEDYAC3FNES6VI-30x20.avif,55,0,0
+1732623910421,61,2n Tech Nasil-39,200,OK,Thread Group 1-1,bin,true,,10588,242,1,1,https://2nhaber.com/wp-content/uploads/2024/11/2024-11-06T203129Z_929638687_RC2LMAA0ROIN_RTRMADP_3_USA-ELECTION-TRUMP-MUSK-1-e1731413207491-30x14.jpg,60,0,0
+1732623910482,56,2n Tech Nasil-40,200,OK,Thread Group 1-1,bin,true,,738,173,1,1,https://2nhaber.com/wp-content/uploads/2024/11/jtf-ff-001426_4376f482-30x17.jpeg,56,0,0
+1732623910538,59,2n Tech Nasil-41,200,OK,Thread Group 1-1,bin,true,,7561,194,1,1,https://2nhaber.com/wp-content/uploads/2024/10/human-hand-and-robot-2024-10-20-23-14-22-utc-30x18.jpg,59,0,0
+1732623910597,55,2n Tech Nasil-42,200,OK,Thread Group 1-1,bin,true,,868,224,1,1,https://2nhaber.com/wp-content/uploads/2024/11/AA-20241106-36119511-36119506-DRON_AILESI_YETENEKLERIYLE_ENGEL_TANIMAYACAK-30x23.jpg,55,0,0
+1732623910652,55,2n Tech Nasil-43,200,OK,Thread Group 1-1,bin,true,,869,242,1,1,https://2nhaber.com/wp-content/uploads/2024/11/AA-20241023-35990980-35990976-SAHA_EXPO_ULUSLARARASI_SAVUNMA_HAVACILIK_VE_UZAY_SANAYII_FUARI-30x17.jpg,55,0,0
+1732623910707,56,2n Tech Nasil-44,200,OK,Thread Group 1-1,bin,true,,1415,176,1,1,https://2nhaber.com/wp-content/uploads/2024/11/DFUXOGR6KROKNE3JJMZ24TF7JA-30x20.jpg,56,0,0
+1732623910763,56,2n Tech Nasil-45,200,OK,Thread Group 1-1,bin,true,,894,218,1,1,https://2nhaber.com/wp-content/uploads/2024/11/AA-20241101-36076309-36076306-SINYAL_KARISTIRMAYA_KARSI_MILLI_KALKAN-30x20.jpg,56,0,0
+1732623910819,55,2n Tech Nasil-46,200,OK,Thread Group 1-1,bin,true,,807,210,1,1,https://2nhaber.com/wp-content/uploads/2024/11/AA-20241104-36104450-36104420-PARISTE_EURONAVAL_FUARI_ACILDI-30x20.jpg,55,0,0
+1732623910874,55,2n Tech Nasil-47,200,OK,Thread Group 1-1,bin,true,,874,159,1,1,https://2nhaber.com/wp-content/uploads/2024/11/435435kea-30x19.jpg,55,0,0
+1732623910929,56,2n Tech Nasil-48,200,OK,Thread Group 1-1,bin,true,,682,169,1,1,https://2nhaber.com/wp-content/uploads/2024/10/2n-logo-beyaz-512-1-30x24.png,56,0,0
+1732623910985,604,2n Tech Nasil-49,200,OK,Thread Group 1-1,bin,true,,476656,151,1,1,https://2nhaber.com/wp-content/uploads/2024/10/Gif-YBK.gif,59,0,0
+1732623911589,55,2n Tech Nasil-50,200,OK,Thread Group 1-1,text,true,,494,209,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?ver=3.25.10,55,0,0
+1732623911645,57,2n Tech Nasil-51,200,OK,Thread Group 1-1,text,true,,5395,173,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/post-140.css?ver=1732474071,57,0,0
+1732623911706,56,2n Tech Nasil-52,200,OK,Thread Group 1-1,text,true,,5167,192,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.25.10,56,0,0
+1732623911765,59,2n Tech Nasil-53,200,OK,Thread Group 1-1,text,true,,7317,188,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1732474072,59,0,0
+1732623911827,57,2n Tech Nasil-54,200,OK,Thread Group 1-1,text,true,,6090,172,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/post-65.css?ver=1732474072,57,0,0
+1732623911889,57,2n Tech Nasil-55,200,OK,Thread Group 1-1,text,true,,6264,172,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/post-98.css?ver=1732474088,57,0,0
+1732623911951,59,2n Tech Nasil-56,200,OK,Thread Group 1-1,text,true,,4610,173,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/post-143.css?ver=1732474072,58,0,0
+1732623912013,56,2n Tech Nasil-57,200,OK,Thread Group 1-1,text,true,,1538,173,1,1,https://2nhaber.com/wp-content/uploads/elementor/css/post-169.css?ver=1732474083,56,0,0
+1732623912070,57,2n Tech Nasil-58,200,OK,Thread Group 1-1,text,true,,543,185,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.25.10,57,0,0
+1732623912128,60,2n Tech Nasil-59,200,OK,Thread Group 1-1,text,true,,8189,206,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/lib/lazysizes/lazysizes.min.js?ver=5.3.0,60,0,0
+1732623912188,58,2n Tech Nasil-60,200,OK,Thread Group 1-1,text,true,,5819,157,1,1,https://2nhaber.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0,57,0,0
+1732623912246,63,2n Tech Nasil-61,200,OK,Thread Group 1-1,text,true,,21470,179,1,1,https://2nhaber.com/wp-content/themes/the-reporter/assets/js/frontend.min.js?ver=1.0.0,59,0,0
+1732623912309,62,2n Tech Nasil-62,200,OK,Thread Group 1-1,text,true,,18591,222,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/lib/perfect-scrollbar/perfect-scrollbar.min.js?ver=1.4.0,59,0,0
+1732623912371,59,2n Tech Nasil-63,200,OK,Thread Group 1-1,text,true,,7641,202,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/js/webpack.runtime.min.js?ver=1.14.7,59,0,0
+1732623912431,62,2n Tech Nasil-64,200,OK,Thread Group 1-1,text,true,,5551,186,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.25.10,62,0,0
+1732623912493,113,2n Tech Nasil-65,200,OK,Thread Group 1-1,text,true,,55124,187,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.25.10,59,0,0
+1732623912606,60,2n Tech Nasil-66,200,OK,Thread Group 1-1,text,true,,10615,210,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/lib/basicScroll/basicScroll.min.js?ver=3.0.3,60,0,0
+1732623912667,59,2n Tech Nasil-67,200,OK,Thread Group 1-1,text,true,,11969,212,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/lib/vanilla-tilt/vanilla-tilt.min.js?ver=1.7.0,59,0,0
+1732623912726,62,2n Tech Nasil-68,200,OK,Thread Group 1-1,text,true,,17785,198,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/lib/anime/anime.min.js?ver=3.2.1,59,0,0
+1732623912789,63,2n Tech Nasil-69,200,OK,Thread Group 1-1,text,true,,11696,206,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/lib/hc-sticky/hc-sticky.min.js?ver=2.2.6,63,0,0
+1732623912853,57,2n Tech Nasil-70,200,OK,Thread Group 1-1,text,true,,5467,205,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/lib/headroom/headroom.min.js?ver=0.12.0,57,0,0
+1732623912911,60,2n Tech Nasil-71,200,OK,Thread Group 1-1,text,true,,6282,209,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/lib/donutty/jquery.donutty.min.js?ver=2.0.0,60,0,0
+1732623912971,115,2n Tech Nasil-72,200,OK,Thread Group 1-1,text,true,,61667,195,1,1,https://2nhaber.com/wp-content/plugins/cmsmasters-elementor-addon/assets/js/frontend.min.js?ver=1.14.7,61,0,0
+1732623913087,63,2n Tech Nasil-73,200,OK,Thread Group 1-1,text,true,,21764,160,1,1,https://2nhaber.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3,59,0,0
+1732623913151,69,2n Tech Nasil-74,200,OK,Thread Group 1-1,text,true,,37048,166,1,1,https://2nhaber.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3,60,0,0
+1732623913221,71,2n Tech Nasil-75,200,OK,Thread Group 1-1,text,true,,44427,179,1,1,https://2nhaber.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.10,60,0,0
+1732623913301,541,2n Tech Is Dunyasi,200,OK,Thread Group 1-1,text,true,,262010,247,1,1,https://2nhaber.com/is-dunyasi/,203,0,0
+1732623913301,203,2n Tech Is Dunyasi-0,301,Moved Permanently,Thread Group 1-1,text,true,,270,123,1,1,https://2nhaber.com/is-dunyasi,203,0,0
+1732623913505,337,2n Tech Is Dunyasi-1,200,OK,Thread Group 1-1,text,true,,261740,124,1,1,https://2nhaber.com/is-dunyasi/,93,0,0
+1732623913843,1673,2n Tech Yasam,200,OK,Thread Group 1-1,text,true,,255543,237,1,1,https://2nhaber.com/yasam/,163,0,0
+1732623913843,163,2n Tech Yasam-0,301,Moved Permanently,Thread Group 1-1,text,true,,265,118,1,1,https://2nhaber.com/yasam,163,0,0
+1732623914007,1509,2n Tech Yasam-1,200,OK,Thread Group 1-1,text,true,,255278,119,1,1,https://2nhaber.com/yasam/,1202,0,0
+1732623915519,1025,2n Tech Search,200,OK,Thread Group 1-1,text,true,,185295,124,1,1,https://2nhaber.com/?s=istanbul,779,0,0

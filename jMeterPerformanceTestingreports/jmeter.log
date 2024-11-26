@@ -1,0 +1,46 @@
+2024-11-27 01:38:14,003 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-11-27 01:38:14,035 INFO o.a.j.JMeter: Loading user properties from: C:\Users\90538\Desktop\JMeter\apache-jmeter-5.6.3\bin\user.properties
+2024-11-27 01:38:14,035 INFO o.a.j.JMeter: Loading system properties from: C:\Users\90538\Desktop\JMeter\apache-jmeter-5.6.3\bin\system.properties
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: Version 5.6.3
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: java.version=19.0.2
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: os.name=Windows 10
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: os.arch=amd64
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: os.version=10.0
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: java.awt.headless=true
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-11-27 01:38:14,050 INFO o.a.j.JMeter: Available Processors =12
+2024-11-27 01:38:14,066 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-11-27 01:38:14,066 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-11-27 01:38:14,066 INFO o.a.j.JMeter: JMeterHome=C:\Users\90538\Desktop\JMeter\apache-jmeter-5.6.3
+2024-11-27 01:38:14,066 INFO o.a.j.JMeter: user.dir  =C:\Users\90538\IdeaProjects\2NTech_Metin\jMeterPerformanceTestingreports
+2024-11-27 01:38:14,066 INFO o.a.j.JMeter: PWD       =C:\Users\90538\IdeaProjects\2NTech_Metin\jMeterPerformanceTestingreports
+2024-11-27 01:38:14,066 INFO o.a.j.JMeter: IP: 172.26.208.1 Name: DESKTOP-QL4843I FullName: DESKTOP-QL4843I.mshome.net
+2024-11-27 01:38:14,081 INFO o.a.j.s.FileServer: Default base='C:\Users\90538\IdeaProjects\2NTech_Metin\jMeterPerformanceTestingreports'
+2024-11-27 01:38:14,081 INFO o.a.j.s.FileServer: Set new base='C:\Users\90538\IdeaProjects\2NTech_Metin\jMeterPerformanceTestingreports'
+2024-11-27 01:38:14,330 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-11-27 01:38:14,362 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-11-27 01:38:14,362 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-11-27 01:38:14,377 INFO o.a.j.s.SaveService: Loading file: isDunyasi_AggregateReport.jmx
+2024-11-27 01:38:14,424 INFO o.a.j.JMeter: Creating summariser <summary>
+2024-11-27 01:38:14,424 ERROR o.a.j.JMeter: Error in NonGUIDriver
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at org.apache.jmeter.JMeter.runNonGui(JMeter.java:985) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.JMeter.startNonGui(JMeter.java:940) [ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.JMeter.start(JMeter.java:508) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:259) [ApacheJMeter.jar:5.6.3]
+2024-11-27 01:38:14,440 ERROR o.a.j.JMeter: An error occurred: 
+org.apache.jmeter.report.config.ConfigurationException: Error in NonGUIDriver Index 0 out of bounds for length 0
+	at org.apache.jmeter.JMeter.runNonGui(JMeter.java:1049) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.JMeter.startNonGui(JMeter.java:940) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.JMeter.start(JMeter.java:508) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:259) [ApacheJMeter.jar:5.6.3]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at org.apache.jmeter.JMeter.runNonGui(JMeter.java:985) ~[ApacheJMeter_core.jar:5.6.3]
+	... 5 more
